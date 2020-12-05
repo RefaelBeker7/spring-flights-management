@@ -54,12 +54,12 @@ mvn spring-boot:run
 Running the Project with IntelliJ IDEA Ultimate Edition for development purpose
 ---
 
-1. Clone the repository using the git integration of Intellij From the main menu, choose VCS | Checkout from Version Control | Git and then click Clone.
-2. IntelliJ will ask you to create an IntelliJ IDEA project from the sources you have checked out, just click Yes.
-3. Choose Import project from external model and select Maven.
-4. Modify the needed parameters for your configuration and click Finish.
-5. Using the Maven Projects tool window, run the maven build using package command.
-6. Click now the Run application button to start Spring Boot application. ( IntelliJ already added Spring boot config )
+1. Clone the repository using the git integration of Intellij From the main menu, choose **VCS | Checkout from Version Control | Git** and then click **Clone**.
+2. IntelliJ will ask you to create an IntelliJ IDEA project from the sources you have checked out, just click **Yes**.
+3. Choose **Import project from external model** and select **Maven**.
+4. Modify the needed parameters for your configuration and click **Finish**.
+5. Using the **Maven Projects** tool window, run the maven build using **package** command.
+6. Click now the **Run application** button to start Spring Boot application. ( IntelliJ already added Spring boot config )
 7. Port http://localhost:8080
 > Note: that there is no UI for this application; it only exposes REST endpoints
 
