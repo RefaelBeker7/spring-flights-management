@@ -3,7 +3,7 @@ REST API to manage flight with Swagger-Springboot
 
 Overview
 ---
-management system for Airlines
+Management system for Airlines
 
 
 
