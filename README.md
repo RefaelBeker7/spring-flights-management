@@ -42,7 +42,6 @@ which implement the formula).
 
 Running the Project
 ---
-- To run the project:
 
 1. Compile the project with the following command:
 
@@ -55,7 +54,6 @@ mvn spring-boot:run
 
 Running the Project with IntelliJ IDEA Ultimate Edition for development purpose
 ---
-- To run the project:
 
 1. Clone the repository using the git integration of Intellij From the main menu, choose VCS | Checkout from Version Control | Git and then click Clone.
 2. IntelliJ will ask you to create an IntelliJ IDEA project from the sources you have checked out, just click Yes.
