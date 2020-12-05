@@ -3,7 +3,7 @@ REST API to manage flight with Swagger.
 
 Overview
 ---
-Management system for Airlines
+Management system for Airlines the basics of enabling Swagger definitions on a Spring Boot project with RESTful endpoints. Springfox automatically detects the use of Spring Boot Web MVC and infers from the endpoints defined in the ```MainController``` and generates the corresponding API definitions for Swagger. New Swagger-specific endpoints are injected into the Spring Boot application to allow for browsing the documentation using Swagger UI as well as for viewing the resulting JSON Swagger Definitions file.
 
 
 Technology
