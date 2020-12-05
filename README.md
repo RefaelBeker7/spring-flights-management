@@ -44,13 +44,13 @@ Running the Project
 ---
 
 1. Compile the project with the following command:
-
+```
 mvn clean install
-
+```
 2. The project is a Spring Boot Application, so you can run inside of your ide or from terminal with the following command:
-
+```
 mvn spring-boot:run
-
+```
 
 Running the Project with IntelliJ IDEA Ultimate Edition for development purpose
 ---
@@ -72,8 +72,8 @@ H2 Database
 ---
 To view the H2 Database http://localhost:8080/h2/
 
-- Driver Class org.h2.Driver
-- JDBC Url jdbc:h2:mem:test
+- Driver Class ```org.h2.Driver```
+- JDBC Url ```jdbc:h2:mem:test```
 - User Name = sa, No password need to required then login into the H2 console.
 
 API Endpoints
