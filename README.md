@@ -67,7 +67,8 @@ Running the Project with IntelliJ IDEA Ultimate Edition for development purpose
 Swagger
 ---
 To view the generated Swagger UI documentation go to: http://localhost:8080/swagger-ui.html
-![alt text](https://https://github.com/RefaelBeker7/spring-flights-management/blob/master/Swagger.png)
+
+![alt text](https://github.com/RefaelBeker7/spring-flights-management/blob/master/Swagger.png)
 
 
 H2 Database
