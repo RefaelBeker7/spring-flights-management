@@ -1,10 +1,9 @@
 # spring-flights-management
-REST API to manage flight with Swagger
+REST API to manage flight with Swagger.
 
 Overview
 ---
 Management system for Airlines
-
 
 
 Technology
