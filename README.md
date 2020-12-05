@@ -1,6 +1,8 @@
 # spring-flights-management
+
 [![forthebadge](https://forthebadge.com/images/badges/made-with-java.svg)](https://forthebadge.com)
-REST API to manage flight with Swagger.
+
+> REST API to manage flight with Swagger.
 
 Overview
 ---
