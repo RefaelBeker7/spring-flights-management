@@ -75,7 +75,6 @@ H2 Database
 To view the H2 Database http://localhost:8080/h2/
 
 - Driver Class ```org.h2.Driver```
-- JDBC Url ```jdbc:h2:mem:test```
 - User Name = sa, No password need to required then login into the H2 console.
 
 API Endpoints
