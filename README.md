@@ -40,6 +40,16 @@ airplanes and their max distance).
 you should use the Haversine formula (it is highly recommended to use an existing library
 which implement the formula).
 
+Running the Project with IntelliJ IDEA Ultimate Edition for development purpose
+---
+- To run the project:
 
-
+Clone the repository using the git integration of Intellij From the main menu, choose VCS | Checkout from Version Control | Git and then click Clone
+IntelliJ will ask you to create an IntelliJ IDEA project from the sources you have checked out, just click Yes
+Choose Import project from external model and select Maven
+Modify the needed parameters for your configuration and click Finish
+Using the Maven Projects tool window, run the maven build using package command
+Click now the Run application button to start Spring Boot application ( IntelliJ already added Spring boot config )
+Check http://localhost:8080
+To view the generated Swagger UI documentation go to: http://localhost:8080/swagger-ui.html
 
