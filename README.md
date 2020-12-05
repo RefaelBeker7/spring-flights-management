@@ -44,11 +44,13 @@ Running the Project
 ---
 - To run the project:
 
-1. Clone this repository.
-2. Go to the root directory of the repository: cd ./YOUR-REPO-NAME
-3. Run the package Maven task: mvn package
-4. Go to the target directory.
-5. Run the generated JAR file: java -jar <JAR-file>
+1. Compile the project with the following command:
+
+mvn clean install
+
+2. The project is a Spring Boot Application, so you can run inside of your ide or from terminal with the following command:
+
+mvn spring-boot:run
 
 
 Running the Project with IntelliJ IDEA Ultimate Edition for development purpose
@@ -61,10 +63,16 @@ Running the Project with IntelliJ IDEA Ultimate Edition for development purpose
 4. Modify the needed parameters for your configuration and click Finish.
 5. Using the Maven Projects tool window, run the maven build using package command.
 6. Click now the Run application button to start Spring Boot application. ( IntelliJ already added Spring boot config )
-7. Check http://localhost:8080
-8. To view the generated Swagger UI documentation go to: http://localhost:8080/swagger-ui.html
+7. Port http://localhost:8080
+> Note: that there is no UI for this application; it only exposes REST endpoints
 
-To view the H2 Database http://localhost:8080/h2console/
+Swagger
+---
+To view the generated Swagger UI documentation go to: http://localhost:8080/swagger-ui.html
+
+H2 Database
+---
+To view the H2 Database http://localhost:8080/h2/
 
 - Driver Class org.h2.Driver
 - JDBC Url jdbc:h2:mem:test
