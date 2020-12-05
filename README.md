@@ -81,4 +81,5 @@ To view the H2 Database http://localhost:8080/h2/
 
 API Endpoints
 ---
-
+![alt text](https://github.com/RefaelBeker7/spring-flights-management/blob/master/controller.png)
+![alt text](https://github.com/RefaelBeker7/spring-flights-management/blob/master/models.png)
