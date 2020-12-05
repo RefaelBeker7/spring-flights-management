@@ -72,11 +72,15 @@ To view the generated Swagger UI documentation go to: http://localhost:8080/swag
 
 H2 Database
 ---
-To view the H2 Database http://localhost:8080/h2/
-
-- Driver Class ```org.h2.Driver```
-- User Name = sa, No password need to required then login into the H2 console.
-
+If you prefer you can use any database client, else, you can access from the following URL:
+1. Go to: http://localhost:8080/contacts/h2-console
+2. Setting the following parameters:
+```
+ Driver Class :  org.h2.Driver
+ JDBC URL     :  jdbc:h2:file:./data/fileDb
+ User Name    :  sa
+ Password     : 
+```
 API Endpoints
 ---
 ![alt text](https://github.com/RefaelBeker7/spring-flights-management/blob/master/controller.png)
