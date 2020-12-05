@@ -11,15 +11,15 @@ Technology
 ---
 The following are the key technologies used in the project:
 
-Spring Boot
-Java 8
-Apache Tomcat ( http server for the Spring boot app)
-Springfox
-Spring Data JPA
-H2 Database
-spring boot framework
-Swagger UI
-Build tool – maven
+- Spring Boot
+- Java 8
+- Apache Tomcat ( http server for the Spring boot app)
+- Springfox
+- Spring Data JPA
+- H2 Database
+- Spring boot framework
+- Swagger UI
+- Build tool – maven
 
 
 System Requirements
