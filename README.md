@@ -30,7 +30,7 @@ System Requirements
 [km]).
 4. An option to sell an aircraft. Upon selling an aircraft the sell price is determined as following
 → original price * (1 - num of months aircraft in use*0.02).
-5. Add a destination (name and location). An airline home base is considered a destination as
+5. Option to Add a destination (name and location). An airline home base is considered a destination as
 well.
 6. An option to list the distance of a given airline from all the destinations in the system.
 7. An option to list the available destinations for a given airline (according to the airline,
