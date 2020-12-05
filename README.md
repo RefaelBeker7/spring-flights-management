@@ -60,7 +60,7 @@ Running the Project with IntelliJ IDEA Ultimate Edition for development purpose
 4. Modify the needed parameters for your configuration and click **Finish**.
 5. Using the **Maven Projects** tool window, run the maven build using **package** command.
 6. Click now the **Run application** button to start Spring Boot application. ( IntelliJ already added Spring boot config )
-7. Port http://localhost:8080
+7. LISTENING PORT **8080**
 > Note: that there is no UI for this application; it only exposes REST endpoints
 
 Swagger
