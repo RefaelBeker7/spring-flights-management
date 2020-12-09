@@ -70,7 +70,7 @@ Swagger
 ---
 To view the generated Swagger UI documentation go to: http://localhost:8080/swagger-ui.html
 
-![alt text](https://github.com/RefaelBeker7/spring-flights-management/blob/master/Swagger.png)
+![Swagger](https://github.com/RefaelBeker7/spring-flights-management/blob/master/Swagger.png)
 
 
 H2 Database
@@ -86,5 +86,5 @@ If you prefer you can use any database client, else, you can access from the fol
 ```
 API Endpoints
 ---
-![alt text](https://github.com/RefaelBeker7/spring-flights-management/blob/master/controller.png)
-![alt text](https://github.com/RefaelBeker7/spring-flights-management/blob/master/models.png)
+![Controller](https://github.com/RefaelBeker7/spring-flights-management/blob/master/controller.png)
+![Models](https://github.com/RefaelBeker7/spring-flights-management/blob/master/models.png)
